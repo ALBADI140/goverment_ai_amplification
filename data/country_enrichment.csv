@@ -1,0 +1,189 @@
+country,region,income_group,gdp_ppp_per_capita_usd
+Afghanistan,South and Central Asia,Low,2201
+Albania,Eastern Europe,Upper middle,25247
+Algeria,Middle East and North Africa,Upper middle,19677
+Andorra,Western Europe,High,75988
+Angola,Sub-Saharan Africa,Lower middle,10446
+Antigua and Barbuda,Latin America and Caribbean,High,32921
+Argentina,Latin America and Caribbean,Upper middle,33187
+Armenia,South and Central Asia,Upper middle,27024
+Australia,Pacific,High,74755
+Austria,Western Europe,High,78334
+Azerbaijan,South and Central Asia,Upper middle,26800
+Bahamas,Latin America and Caribbean,High,41198
+Bahrain,Middle East and North Africa,High,70165
+Bangladesh,South and Central Asia,Lower middle,10955
+Barbados,Latin America and Caribbean,High,26408
+Belarus,Eastern Europe,Upper middle,35616
+Belgium,Western Europe,High,78334
+Belize,Latin America and Caribbean,Upper middle,15694
+Benin,Sub-Saharan Africa,Lower middle,5088
+Bhutan,South and Central Asia,Lower middle,20135
+Bolivia,Latin America and Caribbean,Lower middle,12692
+Bosnia and Herzegovina,Eastern Europe,Upper middle,24123
+Botswana,Sub-Saharan Africa,Upper middle,22039
+Brazil,Latin America and Caribbean,Upper middle,24428
+Brunei Darussalam,East Asia,High,97858
+Bulgaria,Eastern Europe,Upper middle,45642
+Burkina Faso,Sub-Saharan Africa,Low,3227
+Burundi,Sub-Saharan Africa,Low,1031
+Cabo Verde,Sub-Saharan Africa,Lower middle,13313
+Cambodia,East Asia,Lower middle,8890
+Cameroon,Sub-Saharan Africa,Lower middle,5993
+Canada,North America,High,70006
+Central African Republic,Sub-Saharan Africa,Low,1468
+Chad,Sub-Saharan Africa,Low,3458
+Chile,Latin America and Caribbean,High,37336
+China,East Asia,Upper middle,31596
+Colombia,Latin America and Caribbean,Upper middle,23576
+Comoros,Sub-Saharan Africa,Lower middle,4222
+Congo,Sub-Saharan Africa,Lower middle,6712
+Costa Rica,Latin America and Caribbean,Upper middle,34157
+Cote d'Ivoire,Sub-Saharan Africa,Lower middle,8672
+Croatia,Eastern Europe,High,54359
+Cuba,Latin America and Caribbean,Upper middle,23700
+Cyprus,Western Europe,High,67796
+Czechia,Eastern Europe,High,63550
+Democratic Republic of the Congo,Sub-Saharan Africa,Low,2144
+Denmark,Western Europe,High,89667
+Djibouti,Middle East and North Africa,Lower middle,10166
+Dominican Republic,Latin America and Caribbean,Upper middle,32178
+Ecuador,Latin America and Caribbean,Upper middle,17720
+Egypt,Middle East and North Africa,Lower middle,23321
+El Salvador,Latin America and Caribbean,Upper middle,14838
+Equatorial Guinea,Sub-Saharan Africa,Upper middle,19061
+Eritrea,Sub-Saharan Africa,Low,700
+Estonia,Eastern Europe,High,51653
+Eswatini,Sub-Saharan Africa,Lower middle,14244
+Ethiopia,Sub-Saharan Africa,Low,4974
+Fiji,Pacific,Upper middle,17209
+Finland,Western Europe,High,68861
+France,Western Europe,High,68567
+Gabon,Sub-Saharan Africa,Upper middle,25847
+Gambia,Sub-Saharan Africa,Low,3865
+Georgia,South and Central Asia,Upper middle,33990
+Germany,Western Europe,High,76747
+Ghana,Sub-Saharan Africa,Lower middle,9116
+Greece,Western Europe,High,47175
+Grenada,Latin America and Caribbean,Upper middle,22729
+Guatemala,Latin America and Caribbean,Upper middle,16021
+Guinea,Sub-Saharan Africa,Lower middle,5177
+Guinea-Bissau,Sub-Saharan Africa,Low,3495
+Guyana,Latin America and Caribbean,High,95477
+Haiti,Latin America and Caribbean,Lower middle,2993
+Honduras,Latin America and Caribbean,Lower middle,8222
+Hungary,Eastern Europe,High,50570
+Iceland,Western Europe,High,82730
+India,South and Central Asia,Lower middle,12801
+Indonesia,East Asia,Upper middle,18973
+Iran,Middle East and North Africa,Upper middle,20279
+Iraq,Middle East and North Africa,Upper middle,14376
+Ireland,Western Europe,High,159129
+Israel,Middle East and North Africa,High,59095
+Italy,Western Europe,High,65761
+Jamaica,Latin America and Caribbean,Upper middle,13897
+Japan,East Asia,High,59207
+Jordan,Middle East and North Africa,Lower middle,13257
+Kazakhstan,South and Central Asia,Upper middle,48250
+Kenya,Sub-Saharan Africa,Lower middle,8020
+Kiribati,Pacific,Lower middle,3921
+Kuwait,Middle East and North Africa,High,54303
+Kyrgyzstan,South and Central Asia,Lower middle,10024
+Lao PDR,East Asia,Lower middle,10964
+Latvia,Eastern Europe,High,45840
+Lebanon,Middle East and North Africa,Lower middle,12575
+Lesotho,Sub-Saharan Africa,Lower middle,3300
+Liberia,Sub-Saharan Africa,Low,2095
+Libya,Middle East and North Africa,Upper middle,18749
+Liechtenstein,Western Europe,High,195372
+Lithuania,Eastern Europe,High,61052
+Luxembourg,Western Europe,High,156719
+Madagascar,Sub-Saharan Africa,Low,2106
+Malawi,Sub-Saharan Africa,Low,1797
+Malaysia,East Asia,Upper middle,46986
+Maldives,South and Central Asia,Upper middle,37826
+Mali,Sub-Saharan Africa,Low,3665
+Malta,Western Europe,High,82421
+Marshall Islands,Pacific,Upper middle,8503
+Mauritania,Sub-Saharan Africa,Lower middle,9280
+Mauritius,Sub-Saharan Africa,Upper middle,34830
+Mexico,Latin America and Caribbean,Upper middle,26643
+Mongolia,East Asia,Upper middle,22192
+Montenegro,Eastern Europe,Upper middle,36333
+Morocco,Middle East and North Africa,Lower middle,12336
+Mozambique,Sub-Saharan Africa,Low,1699
+Myanmar,East Asia,Lower middle,5315
+Namibia,Sub-Saharan Africa,Upper middle,12666
+Nepal,South and Central Asia,Lower middle,6551
+Netherlands,Western Europe,High,87773
+New Zealand,Pacific,High,58308
+Nicaragua,Latin America and Caribbean,Lower middle,10211
+Niger,Sub-Saharan Africa,Low,2232
+Nigeria,Sub-Saharan Africa,Lower middle,9994
+North Macedonia,Eastern Europe,Upper middle,31746
+Norway,Western Europe,High,115548
+Oman,Middle East and North Africa,High,45698
+Pakistan,South and Central Asia,Lower middle,7334
+Panama,Latin America and Caribbean,High,46405
+Papua New Guinea,Pacific,Lower middle,3986
+Paraguay,Latin America and Caribbean,Upper middle,23349
+Peru,Latin America and Caribbean,Upper middle,20116
+Philippines,East Asia,Lower middle,13639
+Poland,Eastern Europe,High,59792
+Portugal,Western Europe,High,52841
+Qatar,Middle East and North Africa,High,112312
+Republic of Korea,East Asia,High,68624
+Moldova,Eastern Europe,Upper middle,21170
+Romania,Eastern Europe,High,50783
+Russian Federation,Eastern Europe,Upper middle,52479
+Rwanda,Sub-Saharan Africa,Low,4523
+Saint Kitts and Nevis,Latin America and Caribbean,High,35616
+Saint Lucia,Latin America and Caribbean,Upper middle,30398
+Saint Vincent and the Grenadines,Latin America and Caribbean,Upper middle,21990
+Samoa,Pacific,Upper middle,8894
+San Marino,Western Europe,High,87141
+Sao Tome and Principe,Sub-Saharan Africa,Lower middle,6711
+Saudi Arabia,Middle East and North Africa,High,78815
+Senegal,Sub-Saharan Africa,Lower middle,5565
+Serbia,Eastern Europe,Upper middle,34863
+Seychelles,Sub-Saharan Africa,High,35855
+Sierra Leone,Sub-Saharan Africa,Low,3909
+Singapore,East Asia,High,173708
+Slovakia,Eastern Europe,High,49466
+Slovenia,Eastern Europe,High,60664
+Solomon Islands,Pacific,Lower middle,2694
+Somalia,Sub-Saharan Africa,Low,1956
+South Africa,Sub-Saharan Africa,Upper middle,16740
+South Sudan,Sub-Saharan Africa,Low,1540
+Spain,Western Europe,High,59187
+Sri Lanka,South and Central Asia,Lower middle,15632
+Palestine,Middle East and North Africa,Lower middle,5612
+Sudan,Sub-Saharan Africa,Low,2451
+Suriname,Latin America and Caribbean,Upper middle,22985
+Sweden,Western Europe,High,77094
+Switzerland,Western Europe,High,105680
+Syria,Middle East and North Africa,Low,4650
+Taiwan,East Asia,High,98051
+Tajikistan,South and Central Asia,Lower middle,6616
+Thailand,East Asia,Upper middle,27441
+Timor-Leste,East Asia,Lower middle,5270
+Togo,Sub-Saharan Africa,Low,3757
+Tonga,Pacific,Upper middle,8488
+Trinidad and Tobago,Latin America and Caribbean,High,37098
+Tunisia,Middle East and North Africa,Lower middle,15833
+Turkiye,South and Central Asia,Upper middle,46672
+Turkmenistan,South and Central Asia,Upper middle,24349
+Uganda,Sub-Saharan Africa,Low,4192
+Ukraine,Eastern Europe,Upper middle,22443
+United Arab Emirates,Middle East and North Africa,High,87774
+United Kingdom,Western Europe,High,67585
+Tanzania,Sub-Saharan Africa,Lower middle,4607
+United States,North America,High,94430
+Uruguay,Latin America and Caribbean,High,39030
+Uzbekistan,South and Central Asia,Lower middle,14179
+Vanuatu,Pacific,Lower middle,4099
+Venezuela,Latin America and Caribbean,Upper middle,9461
+Viet Nam,East Asia,Lower middle,19649
+Yemen,Middle East and North Africa,Low,1596
+Zambia,Sub-Saharan Africa,Lower middle,4572
+Zimbabwe,Sub-Saharan Africa,Lower middle,8443
